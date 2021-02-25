@@ -8,7 +8,7 @@ import csv
 # Part. 2
 #=======================================
 # Read cwb weather data
-cwb_filename = '107061234.csv'
+cwb_filename = '108000216.csv'
 data = []
 header = []
 maximum = [-999,-999,-999,-999,-999]
