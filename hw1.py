@@ -60,7 +60,7 @@ def PRINT(name, MAX):
     print("'", end = '')
     print(name, end = '')
     print("'", end = '')
-    print(',',end = '')
+    print(', ',end = '')
     if(MAX == -999):
         print('None', end ='')
     else:
@@ -74,13 +74,13 @@ def PRINT(name, MAX):
 # Print result
 print("[", end = '')
 PRINT('C0A880',maximum[0])
-print(',', end = '')
+print(', ', end = '')
 PRINT('C0F9A0',maximum[1])
-print(',', end = '')
+print(', ', end = '')
 PRINT('C0G640',maximum[2])
-print(',', end = '')
+print(', ', end = '')
 PRINT('C0R190',maximum[3])
-print(',', end = '')
+print(', ', end = '')
 PRINT('C0X260',maximum[4])
 print(']')
 
